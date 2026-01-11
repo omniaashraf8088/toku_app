@@ -1,16 +1,34 @@
-# learn_language
+**📱 Toku App (Flutter)
+📌 About
+Toku App is a mobile application built with Flutter designed to help users learn basic vocabulary and phrases (e.g., numbers, colors, family members, and useful expressions) through simple interactive screens.
+This project is ideal as a beginner Flutter project or educational reference for learning how to structure and build mobile apps.
 
-A new Flutter project.
+✨ Features
+English
+🚀 Flutter app starter with ready screens
+📘 Learn basic vocabulary (numbers, family members, etc.)
+🗣 Simple, interactive UI
+📱 Works on Android and iOS
+💡 Great for educational or language learning projects
 
-## Getting Started
+عربي
+🚀 تطبيق Flutter جاهز للتطوير
+📘 تعلم مفردات أساسية (أرقام، عائلة…)
+🗣 واجهة تفاعلية بسيطة
+📱 يدعم Android و iOS
+💡مناسب كمشروع تعليمي
+🛠️ Technologies Used
+Flutter — UI toolkit by Google
+Dart — Programming language
+Cross‑platform support (Android & iOS)
 
-This project is a starting point for a Flutter application.
+📌 Suggested Enhancements
+To complete the app and make it more powerful, you can add:
+🧠 Audio playback for pronunciation
+📊 Progress tracking (e.g., which words learned)
+🎨 Theming (light/dark mode)
+🔄 Local storage (Hive / Shared Preferences)
+🎓 Quizzes and mini games for learning
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📄 License
+MIT License
